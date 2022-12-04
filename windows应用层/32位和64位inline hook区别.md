@@ -50,3 +50,6 @@ ff25 + 4字节地址0x00000000 + 8字节绝对地址
 
 就是跳转到0x1234567887654321
 ```
+
+>https://xz.aliyun.com/t/9166
+>https://www.ired.team/offensive-security/code-injection-process-injection/how-to-hook-windows-api-using-c++
