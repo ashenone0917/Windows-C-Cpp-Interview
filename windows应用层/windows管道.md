@@ -171,4 +171,7 @@ int main() {
 Windows管道是一种数据传输机制，它允许一个进程将输出数据传递给另一个进程，同时另一个进程可以从管道读取数据。Windows管道是一种无名管道，它没有名称，只能用于传递数据。Windows管道的实现原理是基于操作系统内核的机制，通过创建一个数据缓冲区来存储数据，同时在发送和接收数据时使用同步和互斥机制来保证数据的安全传输。
 - 数据通信采用共享内存
 - 同步机制采用windows的Event
+
+  
 > https://bbs.kanxue.com/thread-26252.htm
+> https://cloud.tencent.com/developer/article/1625924
